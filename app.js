@@ -1,4 +1,4 @@
-const friends = ['Goke', 'Bobby', 'Ashley', 'Dynamic', 'Peter'];
+const friends =['Goke', 'Bobby', 'Ashley', 'Dynamic', 'Peter'];
 
 console.log(friends)
 
